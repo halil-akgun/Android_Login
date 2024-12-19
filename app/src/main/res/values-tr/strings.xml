@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Android_Login</string>
+    <string name="username">kullanici adi</string>
+    <string name="password">sifre</string>
+    <string name="login">Giris</string>
+    <string name="help">Yardim</string>
+</resources>
